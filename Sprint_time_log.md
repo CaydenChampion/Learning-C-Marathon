@@ -24,8 +24,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-|Date      |Start Time|Category|Description                                 |Total Minutes|
-|----------|----------|:------:|--------------------------------------------|:-----------:|
+|Date      |Start Time         |Category|Description                                 |Total Minutes|
+|--1/14/26-|--10:15am-11:15am--|:  TP  :|--------------------------------------------|:---60min---:|
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
