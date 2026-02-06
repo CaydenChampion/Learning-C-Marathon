@@ -24,13 +24,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-|Date      |Start Time         |Category|Description                                 |Total Minutes|
-|--1/14/26-|--10:15am-11:15am--|:  TP  :|--------------------------------------------|:---60min---:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|Date      |Start Time |Category|Description              |Total Minutes|
+|--1/14/26-|--10:15am |:  TP  :|---Trying to understand what it is I should do----|:---60min---:|
+|  1/15/26 |    6pm   |   IM   |   Trying to get C++ working                |     3hrs        |
+|  1/16/26 |    6pm   |   IM   |Attempting to download C++ compiler for VS Code |  4hrs           |
+|  1/19/26 |  6:30pm  |   TP   |  Learning website development       |      3hrs       |
+|  1/23/26 |  6pm  |   IM     |Trying to run C++ code and getting actual code working |     4hrs hrs        |
+| 1/12-23/26 |  10:15|   MTG |  Working with team mates in class   |    6hrs   |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -39,7 +39,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |           11hrs           |
+|TP - Team Project              |         4hrs            |
+|MTG - Class Meetings           |           6hrs          |
+|**TOTAL**                      |           21hrs           |
